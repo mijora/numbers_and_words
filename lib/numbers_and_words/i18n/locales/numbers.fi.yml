@@ -1,22 +1,22 @@
 fi:
   numbers:
-    ones: [nulis, vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni]
-    teens: [_, vienuolika, dvylika, trylika, keturiolika, penkiolika, šešiolika, septyniolika, aštuoniolika, devyniolika]
-    tens: [_, dešimt, dvidešimt, trisdešimt, keturiasdešimt, penkiasdešimt, šešiasdešimt, septyniasdešimt, aštuoniasdešimt, devyniasdešimt]
-    hundreds: [_, šimtas, du šimtai, trys šimtai, keturi šimtai, penki šimtai, šeši šimtai, septyni šimtai, aštuoni šimtai, devyni šimtai]
+    ones: [nolla, yksi, kaksi, kolme, neljä, viisi, kuusi, seitsemän, kahdeksan, yhdeksän]
+    teens: [_, yksitoista, kaksitoista, kolmetoista, neljätoista, viisitoista, kuusitoista, seitsemäntoista, kahdeksantoista, yhdeksäntoista]
+    tens: [_, kymmenen, kaksikymmentä, kolmekymmentä, neljäkymmentä, viisikymmentä, kuusikymmentä, seitsemänkymmentä, kahdeksankymmentä, yhdeksänkymmentä]
+    hundreds: [_, sata, kaksisataa, kolmesataa, neljäsataa, viisisataa, kuusisataa, seitsemänsataa, kahdeksansataa, yhdeksänsataa]
     mega: [_, thousands, millions, billions, trillions, quadrillions, quintillion, sextillions, septillions, octillions, nonillions, decillions]
     thousands:
-      one: tūkstantis
-      ones: tūkstančiai
-      other: tūkstančių
+      one: tuhat
+      ones: tuhansia
+      other: tuhansia
     millions:
-      one: milijonas
-      ones: milijonai
-      other: milijonų
+      one: miljoonaa
+      ones: miljoonia
+      other: miljoonaa
     billions:
-      one: bilijonas
-      ones: bilijonai
-      other: bilijonų
+      one: biljoonaa
+      ones: biljoonia
+      other: biljoonaa
     trillions:
       one: trilijonas
       ones: trilijonai
