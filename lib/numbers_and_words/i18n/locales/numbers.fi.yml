@@ -1,4 +1,4 @@
-lt:
+fi:
   numbers:
     ones: [nulis, vienas, du, trys, keturi, penki, šeši, septyni, aštuoni, devyni]
     teens: [_, vienuolika, dvylika, trylika, keturiolika, penkiolika, šešiolika, septyniolika, aštuoniolika, devyniolika]

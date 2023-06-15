@@ -37,6 +37,7 @@ Gem::Specification.new do |s|
     "lib/numbers_and_words/i18n/locales/numbers.en.yml",
     "lib/numbers_and_words/i18n/locales/numbers.es.yml",
     "lib/numbers_and_words/i18n/locales/numbers.et.yml",
+    "lib/numbers_and_words/i18n/locales/numbers.fi.yml",
     "lib/numbers_and_words/i18n/locales/numbers.fr.yml",
     "lib/numbers_and_words/i18n/locales/numbers.hu.yml",
     "lib/numbers_and_words/i18n/locales/numbers.hy.yml",
